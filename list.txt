@@ -7,4 +7,8 @@ walk
 
 sleep
 eat
+new1
+2
+3
+4
 thankyou
